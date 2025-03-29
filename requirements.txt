@@ -1,8 +1,9 @@
 catboost>=1.2
 joblib==1.1.0
-lightgbm==3.3.2
+lightgbm>=3.3.5
 optuna==2.10.0
 streamlit==1.8.1
 xgboost==1.5.2
 markupsafe==1.1.1
 zenml==0.80.1
+scikit-learn>1.1.3
